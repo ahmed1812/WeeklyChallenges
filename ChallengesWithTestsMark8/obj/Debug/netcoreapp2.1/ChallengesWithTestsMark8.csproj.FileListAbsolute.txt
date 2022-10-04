@@ -40,3 +40,16 @@ C:\Projects\CSharpProjects\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\n
 C:\Projects\CSharpProjects\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Projects\CSharpProjects\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Projects\CSharpProjects\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.deps.json
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\zaidf\Desktop\2022Projects\WeeklyChaleng\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.genruntimeconfig.cache
